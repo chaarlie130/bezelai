@@ -1,0 +1,14 @@
+
+.niches {
+    background-color: #182833;
+    width: fit-content;
+    color: #ffffff;
+    height: fit-content;
+    padding: 20px;
+}
+.categories {    
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+    padding-bottom: 20px;
+}

@@ -1,0 +1,48 @@
+.app-layout {
+  display: flex;
+  flex-direction: column;
+  background:#182833;
+}
+
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.content {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}.app-layout {
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+}
+
+.content > .sidebar {
+  flex: 0 0 250px; /* Fixed width for sidebar */
+}
+
+.content > div {
+  flex-grow: 1;
+}
+
+
+.content > .sidebar {
+  flex: 0 0 250px; /* Fixed width for sidebar */
+}
+
+.content > div {
+  flex-grow: 1;
+}

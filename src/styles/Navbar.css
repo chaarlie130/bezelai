@@ -1,0 +1,15 @@
+/* Example for Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    color: white;
+    background-color: #1A2C38;
+  }
+  
+  .signin-button {
+    padding: 10px 20px;
+    background: #14222C;
+    border-radius: 10px;
+    outline: 2px solid #274255;
+}  

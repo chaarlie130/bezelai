@@ -1,0 +1,27 @@
+/* BestSellers.css */
+.best-sellers {
+    background-color: #121212; /* Dark background */
+    color: #ffffff; /* White text color */
+    padding: 20px; /* Spacing around the content */
+  }
+  
+  .best-sellers h2 {
+    font-size: 24px; /* Large font size for the heading */
+    margin-bottom: 20px; /* Spacing between the heading and the items */
+  }
+  
+  .items {
+    display: flex; /* Align items in a row */
+    gap: 20px; /* Spacing between each item */
+    overflow-x: auto; /* Enable horizontal scrolling */
+    padding-bottom: 20px; /* Extra space at the bottom */
+  }
+  
+  .item {
+    width: 160px; /* Width of each item */
+    height: 240px; /* Height of each item */
+    background-color: #1a1a1a; /* Slightly lighter than the background for contrast */
+    border: 2px solid #2a2a2a; /* Border color slightly lighter than the item background */
+    border-radius: 8px; /* Rounded corners */
+  }
+  

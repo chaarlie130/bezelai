@@ -1,0 +1,16 @@
+.sidebar {
+    background-color: #15232C; /* Dark background color */
+    width: 250px; /* Adjust width as necessary */
+    height: 100vh; /* Full height */
+    padding: 20px; /* Spacing inside the sidebar */
+    box-sizing: border-box; /* Include padding in the width calculation */
+    color: #ffffff;
+    border-right: 2px solid #274255;
+    margin-right: 100px;
+  }
+  
+  .menu-item {
+    margin-bottom: 20px; /* Spacing between menu items */
+    /* Style your menu items as needed */
+  }
+  
