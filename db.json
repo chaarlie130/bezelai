@@ -1,71 +1,1603 @@
 {
     "winningProducts": {
-      "general": {
-        "products": [
-          {
-            "id": "gen001",
-            "name": "Multi-purpose Organizer",
-            "description": "An organizer that can be used in various settings, from kitchens to offices.",
-            "price": 19.99,
-            "currency": "USD",
-            "imageUrl": "link-to-product-image"
-          },
-          {
-            "id": "gen002",
-            "name": "Reusable Water Bottle",
-            "description": "Eco-friendly and stylish water bottle for everyday use.",
-            "price": 14.99,
-            "currency": "USD",
-            "imageUrl": "link-to-product-image"
-          }
-        ]
-      },
-      "pet": {
-        "products": [
-          {
-            "id": "pet001",
-            "name": "Smart Pet Feeder",
-            "description": "Automate your pet's feeding schedule with this smart feeder.",
-            "price": 59.99,
-            "currency": "USD",
-            "imageUrl": "link-to-product-image"
-          },
-          {
-            "id": "pet002",
-            "name": "Chew Resistant Toy",
-            "description": "Keep your pet entertained for hours with this durable toy.",
-            "price": 9.99,
-            "currency": "USD",
-            "imageUrl": "link-to-product-image"
-          }
-          
-        ]
-      },
-      "skincare": {
-        "products": [
-          
-        ]
-      },
-      "makeup": {
-        "products": [
-          
-        ]
-      },
-      "technology": {
-        "products": [
-          
-        ]
-      },
-      "clothing": {
-        "products": [
-          
-        ]
-      },
-      "toy": {
-        "products": [
-          
-        ]
-      }
+        "general": {
+            "products": [
+                {
+                    "id": "gen001",
+                    "name": "A0009001710 Adaptive Cruise Control Distronic",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S4b89aa5c65f44ddb9fa08a92ab9d62c9Z/A0009001710-Adaptive-Cruise-Control-Distronic-Plus-For-Mercedes-Benz-OEM-0009001710.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005005992513339.html"
+                },
+                {
+                    "id": "gen002",
+                    "name": "For 2012-2017 DODGE JCUV ABS",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S956934450e9d4bd09500fb4f0c319314H/For-2012-2017-DODGE-JCUV-ABS-computer-CBXZR611AA-68194693AA.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005005975104387.html"
+                },
+                {
+                    "id": "gen003",
+                    "name": "0009058909 Original Quality Radar Sensor",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S42d1ede865264fbd96dd4466eb2413dfI/0009058909-Original-Quality-Radar-Sensor-For-Mercedes-Benz-E-CLS-OEM-A0009058909.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006511684455.html"
+                },
+                {
+                    "id": "gen004",
+                    "name": "Outdoor Smart Glasses Mini Camera",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sac4b45da6aa74c738c28558060de336fd/Outdoor-Smart-Glasses-Mini-Camera-HD-1080P-Eyewear-Video-Recorder-Photo-Taker-Micro-Camcorder-espia-camara.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006215301802.html"
+                },
+                {
+                    "id": "gen005",
+                    "name": "For 2011-2021 Dodge Charger Chrysler",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sd702dff5fba54dce9a0a97f48b53b0a28/For-2011-2021-Dodge-Charger-Chrysler-300c-Black-Hood-Latch-Lock-Release-Cable-1PS72DX9AC.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005005820036285.html"
+                },
+                {
+                    "id": "gen006",
+                    "name": "M20*2.5 Oil Filler Cap Plug",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S0b8f2b46436d45b9b09e9d0d29bb0b4fE/M20-2-5-Oil-Filler-Cap-Plug-For-Yamaha-YZ-65-80-125-X-250-X.png_350x350xz.png_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006370210407.html"
+                },
+                {
+                    "id": "gen007",
+                    "name": "2pcs LED Backlight strip BN96-16621A",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sadf94922a6514c9fa5388611722d15e3F/2pcs-LED-Backlight-strip-BN96-16621A-16622A-For-Samsung-UA55D7000-UA55D8000-UE55D7090-UE55D7000-UE55D8000-UN55D7000-UN55D8000.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006083453841.html"
+                },
+                {
+                    "id": "gen008",
+                    "name": "YINRON A Pair Of Rear",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S0f137a3628af44acab55df64a8d98fa0Z/YINRON-A-Pair-Of-Rear-Air-Suspension-Spring-Balloon-Left-And-Right-For-Mercedes-GL-Class.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006071457833.html"
+                },
+                {
+                    "id": "gen009",
+                    "name": "Eseewigs Customize Men's Toupee,Hairpieces for",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Hc494988458ea4543aa98cd42f4977842r/Eseewigs-Customize-Men-s-Toupee-Hairpieces-for-Men-hair-toupee-for-women-Human-Hair-Replacement-Wigs.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005003635309207.html"
+                },
+                {
+                    "id": "gen010",
+                    "name": "Virgin European Human Hair Silk",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S07988239d6714eaaba2d0b2ae23b42a35/Virgin-Eurpoean-Human-Hair-Silk-Base-Topper-With-Fringe-4-Clip-In-Hair-Women-Toupee-4D.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005004757633229.html"
+                },
+                {
+                    "id": "gen011",
+                    "name": "CFMOTO MT700 Original Hand Guard",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S184ceded9ffa4e49bb1b9c9e45a1b7f7x/CFMOTO-MT700-Original-Hand-Guard-Original-Handguards-Handlebar-Guards-For-CFMOTO-MT700-700MT-CF700MT-700-MT.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006357661028.html"
+                },
+                {
+                    "id": "gen012",
+                    "name": "Black Universal Car Front Windscreen",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sb797fb0068dd4e6e9ae2800b5c63579bn/Black-Universal-Car-Front-Windscreen-Wiper-Arm-Washer-Nozzle-4-Way-Jets-Hose-Tube-Pipe-Check.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005004793650147.html"
+                },
+                {
+                    "id": "gen013",
+                    "name": "2024 New SmartRing Health Monitoring",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sf0e1925b275f4c47b314161fbf7b36aeI/2024-New-SmartRing-Health-Monitoring-Heart-Rate-Blood-Oxygen-5ATM-Waterproof-Sports-Fitness-Tracking-Smart-Ring.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006712594043.html"
+                },
+                {
+                    "id": "gen014",
+                    "name": "Genshin Impact New Skin Costume",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S6031221f6af1462cb3cbbd6c7313084ei/Genshin-Impact-New-Skin-Costume-Kamisato-Ayaka-Cosplay-Wig-Fruhling-Costume-Wig-Heat-Resistant-Wig-Butterfly.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006680219836.html"
+                },
+                {
+                    "id": "gen015",
+                    "name": "34116792219 Auto Parts Front Disc",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sd9fc9774d11746f98e074d18874db775B/34116792219-Auto-Parts-Front-Disc-Brake-Rotor-OEM-34116855006-For-B-MW-For-F20-F23-F22.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006366080233.html"
+                },
+                {
+                    "id": "gen016",
+                    "name": "2PCS Front Shock Strut Mount",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sa9a1e3739f034432bfb2142362ca1b30l/2PCS-Front-Shock-Strut-Mount-Fit-Cadillac-CT6-2016-2018-23345598.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006489353389.html"
+                },
+                {
+                    "id": "gen017",
+                    "name": "Erick's Wiper Front Windshield Wiper",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S0375dd11426e4284b78e7ebd42f37a79R/Erick-s-Wiper-Front-Windshield-Wiper-Water-Washer-Pump-Motor-For-Audi-A3-8L1-A6-4B2.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005004498054967.html"
+                },
+                {
+                    "id": "gen018",
+                    "name": "TNT 125 TNT 135 FULL",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S0a2cf7bbd66c48f6afd6497ebaf8a054m/TNT125-TNT135-FULL-SYSTEM-EXHAUST-FOR-BENELLI-TNT-125-135-MOTOCYCLE-EXHAUST-MUFFLER-FRONT-PIPE-TUBE.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006152171280.html"
+                },
+                {
+                    "id": "gen019",
+                    "name": "Robot Swimming Pool Cleaner Cordless",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006034482919.html"
+                },
+                {
+                    "id": "gen020",
+                    "name": "Auxiliary camera controller suitable for",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005421315292.html"
+                },
+                {
+                    "id": "gen021",
+                    "name": "Excavator Parts Komatsu PC200-8MO 220240360-8mo",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005709118645.html"
+                },
+                {
+                    "id": "gen022",
+                    "name": "For Audi Q7 4M 4M0616001Q",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005950596042.html"
+                },
+                {
+                    "id": "gen023",
+                    "name": "L & R Windshield Windscreen",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006081988325.html"
+                },
+                {
+                    "id": "gen024",
+                    "name": "Car Sticker User Name Custom",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005004676211421.html"
+                },
+                {
+                    "id": "gen025",
+                    "name": "68043171AB Transmission Shift Cable Repair",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006207799982.html"
+                }
+            ]
+        },
+        "beauty_%2526_health": {
+            "products": [
+                {
+                    "id": "gen001",
+                    "name": "ANNAFRIS Eyelash Extension Disposable Soft",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Hbcc3f192e2a241a79845ac6ff53332baN/ANNAFRIS-Eyelash-Extension-Disposable-Soft-Head-Brushes-Professional-Eyebrow-Brush-Mascara-Wand-Applicator-Eye-Lashes-Maquiagem.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005003323034193.html"
+                },
+                {
+                    "id": "gen002",
+                    "name": "20pcs Pregnancy Rapid Test Strip",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S1ba2a99e7a6b43df963fe040082748a2n/20pcs-Pregnancy-Rapid-Test-Strip-Ovulation-LH-Test-Strip-Household-High-Accurate.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006022446480.html"
+                },
+                {
+                    "id": "gen003",
+                    "name": "Washing Bottle For Eyelash Extension",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S47195b5171d54d7bbef0e1a1f03878ccc/Washing-Bottle-For-Eyelash-Extension-250ml-Eyelashes-Cleaning-Washing-Bottle-for-Grafting-Makeup-Tools-Lash-Extension.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005005820560963.html"
+                },
+                {
+                    "id": "gen004",
+                    "name": "GLAMLASH 5PCS Transparent Medical PE",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S33dac66f93f040c89a4b9ca5eedf1b46t/GLAMLASH-5PCS-Transparent-Medical-PE-False-Eyelash-Extensions-Tape-Double-Eyelid-Sticker-Non-woven-Fake-Lash.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/32976016220.html"
+                },
+                {
+                    "id": "gen005",
+                    "name": "1PC Stainless Steel Straight and",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S67099f580a3849cba5c4a33c7ceffe818/1PC-Stainless-Steel-Straight-and-Curved-Eyelashes-Tweezers-Eyelash-Extension-Tweezers-Makeup-Tools-for-False-Eyelashes.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005005940230888.html"
+                },
+                {
+                    "id": "gen006",
+                    "name": "LAGEE Fiber Tip Eyelash Extension",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S3472d7c57e06416ea682170809923012O/LAGEE-Fiber-Tip-Eyelash-Extension-Tweezer-Volume-Isolation-Precise-Lash-Tweezers-Nano-Technology-Eyebrow-from-Nagaraku.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005005806963679.html"
+                },
+                {
+                    "id": "gen007",
+                    "name": "1/3/6Pcs Triangle Velvet Powder Puff",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005888778212.html"
+                },
+                {
+                    "id": "gen008",
+                    "name": "Portable Lipstick Nourishes Moisturizes Lips",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006054362299.html"
+                },
+                {
+                    "id": "gen009",
+                    "name": "KAHI Collagen Moisturizing Stick Multi",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006353973205.html"
+                },
+                {
+                    "id": "gen010",
+                    "name": "5ml Eyelash Glue Waterproof Quick",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005003944434784.html"
+                },
+                {
+                    "id": "gen011",
+                    "name": "2Pcs Triangle Powder Puff Face",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006140909621.html"
+                },
+                {
+                    "id": "gen012",
+                    "name": "12 Pcs Mix Color Eyebrow",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006333736541.html"
+                },
+                {
+                    "id": "gen013",
+                    "name": "Heated Eyelash Curler USB Rechargeable",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005932661594.html"
+                },
+                {
+                    "id": "gen014",
+                    "name": "50pcs Disposable Eyelash Brushes Crystal",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006336422072.html"
+                },
+                {
+                    "id": "gen015",
+                    "name": "New 5g fruit flavour Eyelash",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006430513815.html"
+                },
+                {
+                    "id": "gen016",
+                    "name": "100pairs eye patches eyelash extension",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005128936109.html"
+                },
+                {
+                    "id": "gen017",
+                    "name": "3/1pcs Lip Balm Moisturizing Anti-dry",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006284618981.html"
+                },
+                {
+                    "id": "gen018",
+                    "name": "Rotating Cream Blush Stick Matte",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006670057952.html"
+                },
+                {
+                    "id": "gen019",
+                    "name": "Plastic Applicator Brush 3 In",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005950490443.html"
+                },
+                {
+                    "id": "gen020",
+                    "name": "3/4/10Pcs Eyebrow Trimmer Blade Shaver",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005003262297978.html"
+                },
+                {
+                    "id": "gen021",
+                    "name": "6 Colors Amazing Peel Off",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005099534565.html"
+                },
+                {
+                    "id": "gen022",
+                    "name": "50pcs Disposable Eyelash Brushes Extension",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005939244741.html"
+                },
+                {
+                    "id": "gen023",
+                    "name": "Silicone Brush Cleaner Cosmetic Make",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005797223678.html"
+                },
+                {
+                    "id": "gen024",
+                    "name": "New Liquid Blush Cute Makeup",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005806732838.html"
+                },
+                {
+                    "id": "gen025",
+                    "name": "Nourishing Eyelash Growth Liquid Eyelashes",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/4000274449218.html"
+                },
+                {
+                    "id": "gen026",
+                    "name": "Makeup Tool Eyeliner Pencil Auxiliary",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005615458697.html"
+                },
+                {
+                    "id": "gen027",
+                    "name": "Eyelash Serum Fast Growth Treatment",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006495169061.html"
+                },
+                {
+                    "id": "gen028",
+                    "name": "1pcs Black Liquid Eyeliner Pencil",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006519170974.html"
+                },
+                {
+                    "id": "gen029",
+                    "name": "30D+40D DIY Lash Extensions Kit",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006282200853.html"
+                },
+                {
+                    "id": "gen030",
+                    "name": "DIY Eyelash Extension Kit 200pcs",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006312803074.html"
+                }
+            ]
+        },
+        "electronics": {
+            "products": [
+                {
+                    "id": "gen001",
+                    "name": "2024 New 4G smart watch",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sa32a529e9b1b44f18ee12e7afb947dc7R/2024-New-4G-smart-watch-S9-Ultra-Android-System-with-Dual-camera-WiFi-GPS-SIM-card.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006651279772.html"
+                },
+                {
+                    "id": "gen002",
+                    "name": "Sleep Noise Reduction Earplug Ear",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S6aa5bf9ae42041b6b5ae4632f8fe7c8as/Sleep-Noise-Reduction-Earplug-Ear-Protection-Earplugs-Anti-Noise-Waterproof-Plug-For-Travel-Work-Tapones-Para.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005005482120846.html"
+                },
+                {
+                    "id": "gen003",
+                    "name": "2024 NEW RG405V Handheld Game",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sa7e3d24362b3403a821bb274f9f5a64ca/2024-NEW-RG405V-Handheld-Game-Console-4-IPS-Touch-Screen-Android-12-Unisoc-Tiger-T618-64.png_350x350xz.png_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006688112546.html"
+                },
+                {
+                    "id": "gen004",
+                    "name": "NEW Wireless Lavalier Microphone Audio",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sfb6c71f9a229408b92898ea58b72aa30K/NEW-Wireless-Lavalier-Microphone-Audio-Video-Recording-Mini-Mic-For-iPhone-Android-Laptop-Live-Gaming-Mobile.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006267481334.html"
+                },
+                {
+                    "id": "gen005",
+                    "name": "9TH COFFEE LAKE REFRESH QQLT",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sb0da31627b204199be113c1e32e78c8bb/9TH-COFFEE-LAKE-REFRESH-QQLT-0000-2-4G-6C12T-BGA-TO-LGA-1151.png_350x350xz.png_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005004757961123.html"
+                },
+                {
+                    "id": "gen006",
+                    "name": "LED Selfie Ring Lighting Photographic",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S30fd2ab690da45cc9f053194fd4122c3G/LED-Selfie-Ring-Lighting-Photographic-Selfie-Ring-Lamp-USB-Remote-Fill-light-For-YouTube-TikTok-Video.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006243175955.html"
+                },
+                {
+                    "id": "gen007",
+                    "name": "TimeKettle M3 Language Simultaneous Translator",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005004678859383.html"
+                },
+                {
+                    "id": "gen008",
+                    "name": "10/24/60pcs Comfortable Earplugs Antinoise Ear",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006233380403.html"
+                },
+                {
+                    "id": "gen009",
+                    "name": "Battery Selfie Light Ring Light",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005266239814.html"
+                },
+                {
+                    "id": "gen010",
+                    "name": "New Wireless Lavalier Microphone Portable",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005393188147.html"
+                },
+                {
+                    "id": "gen011",
+                    "name": "EARMOR M32 MOD4 Military Shooting",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006250531653.html"
+                },
+                {
+                    "id": "gen012",
+                    "name": "Metal Push Button Remote Control",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005929867673.html"
+                },
+                {
+                    "id": "gen013",
+                    "name": "Divoom Times Gate Cute Gaming",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006199503035.html"
+                },
+                {
+                    "id": "gen014",
+                    "name": "Unlock hook security accessories supermarket",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006539290798.html"
+                },
+                {
+                    "id": "gen015",
+                    "name": "Chameleon Ultra RFID emulator Chameleon",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005912787956.html"
+                },
+                {
+                    "id": "gen016",
+                    "name": "RFID Key Tag 1386 RFID",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005003907791455.html"
+                },
+                {
+                    "id": "gen017",
+                    "name": "20x30cm Horizontal 0/90 degree Polarizing",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005184784825.html"
+                },
+                {
+                    "id": "gen018",
+                    "name": "eufy Security S380 HomeBase 3",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005218587675.html"
+                },
+                {
+                    "id": "gen019",
+                    "name": "ZOHAN Electronic Headphone 5.0 Bluetooth",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005188196090.html"
+                },
+                {
+                    "id": "gen020",
+                    "name": "Auto Catch Monster Powermon for",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005004930132086.html"
+                },
+                {
+                    "id": "gen021",
+                    "name": "XREAL Air Nreal Air Smart",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006620022144.html"
+                },
+                {
+                    "id": "gen022",
+                    "name": "Handle Strap For Quest 3",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006457673616.html"
+                },
+                {
+                    "id": "gen023",
+                    "name": "4.3 Inch WiFi Video Doorbell",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006539006310.html"
+                },
+                {
+                    "id": "gen024",
+                    "name": "Fosi Audio SK02 Desktop DAC",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006578407470.html"
+                },
+                {
+                    "id": "gen025",
+                    "name": "Video Game Stick M8 With",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006456261859.html"
+                },
+                {
+                    "id": "gen026",
+                    "name": "ANNKE 4K 180° Panoramic Security",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006316091920.html"
+                },
+                {
+                    "id": "gen027",
+                    "name": "P9 Wireless Bluetooth Headphones With",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006417535462.html"
+                },
+                {
+                    "id": "gen028",
+                    "name": "New E88Pro RC Drone 4K",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006674189246.html"
+                },
+                {
+                    "id": "gen029",
+                    "name": "2023 NEW SmartWatch Android Phone",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005923605624.html"
+                },
+                {
+                    "id": "gen030",
+                    "name": "Tuya Smart Home Control Panel",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006135667095.html"
+                }
+            ]
+        },
+        "women%27s_clothing": {
+            "products": [
+                {
+                    "id": "gen001",
+                    "name": "Y2k Disney Kawaii Lilo Stitch",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S9c56deb1f4e7416a974ef0d782199b5fK/Y2k-Disney-Kawaii-Lilo-Stitch-Funny-Cartoon-T-Shirt-Women-Stitch-Manga-T-shirt-Graphic-Tshirt.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005004925401775.html"
+                },
+                {
+                    "id": "gen002",
+                    "name": "DEAT Women Solid Blazer Coat",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S6c3c380f516d4daf84af4c3a5b15f266D/DEAT-Women-Solid-Blazer-Coat-Lapel-Flowers-Three-dimensional-Single-Breasted-Loose-Spring-2024-New-Elegant.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005005245696733.html"
+                },
+                {
+                    "id": "gen003",
+                    "name": "Fur Coat Women Warm Furry",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sa9f917b8d999445290df07757cc890aaJ/Fur-Coat-Women-Warm-Furry-Long-Sleeve-Loose-V-neek-Female-Outwear-2023-Autumn-Winter-New.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006082959600.html"
+                },
+                {
+                    "id": "gen004",
+                    "name": "Hot Sale Women Summer Dress",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/HTB1YfyxDqmWBuNjy1Xaq6xCbXXar/Hot-Sale-Women-Summer-Dress-Elegant-Fashion-Slim-Sexy-Sleeveless-Beading-Female-Vintage-Vestidos-Black-Party.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/32892837545.html"
+                },
+                {
+                    "id": "gen005",
+                    "name": "Lautaro Autumn Long Black Patchwork",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S17753696743f44678071411fdc09d593I/Lautaro-Autumn-Long-Black-Patchwork-Pu-Leather-Trench-Coat-for-Women-Double-Breasted-Loose-Stylish-Luxury.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005005871780528.html"
+                },
+                {
+                    "id": "gen006",
+                    "name": "V-Neck Camisole Women Sexy Stretch",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S3ac9737da054494089702fc209c87cd6j/V-Neck-Camisole-Women-Sexy-Stretch-Push-Up-Bra-with-Chest-Pads-Knitted-Crop-Top-for.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005005337372656.html"
+                },
+                {
+                    "id": "gen007",
+                    "name": "Tank Tops Women With Built",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005965969687.html"
+                },
+                {
+                    "id": "gen008",
+                    "name": "HarleyFashion Gorgeous Design Women 2PCS",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005446009744.html"
+                },
+                {
+                    "id": "gen009",
+                    "name": "Versatile Women's Pants Soft Joggers",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006480221787.html"
+                },
+                {
+                    "id": "gen010",
+                    "name": "TWOTWINSTYLE Cut Out Layered Hem",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005004868374270.html"
+                },
+                {
+                    "id": "gen011",
+                    "name": "New T-Shirts Cool Graphic Printed",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006117248571.html"
+                },
+                {
+                    "id": "gen012",
+                    "name": "Fitaylor Autumn Winter Women White",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005955207330.html"
+                },
+                {
+                    "id": "gen013",
+                    "name": "Korean Style Harajuku Retro Printed",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006395287440.html"
+                },
+                {
+                    "id": "gen014",
+                    "name": "Fall Winter Warm Cropped Vest",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005004694608976.html"
+                },
+                {
+                    "id": "gen015",
+                    "name": "KEYANKETIAN Women Vintage Floral Embroidered",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005447179121.html"
+                },
+                {
+                    "id": "gen016",
+                    "name": "2024 Women Fashion Fall /",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005892711686.html"
+                },
+                {
+                    "id": "gen017",
+                    "name": "Women's Fashion faux fur coat",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005004434635261.html"
+                },
+                {
+                    "id": "gen018",
+                    "name": "Oversize Sweatpants For Women High",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005004694968474.html"
+                },
+                {
+                    "id": "gen019",
+                    "name": "Senior Irregular Fashion Two Pieces",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005413087503.html"
+                },
+                {
+                    "id": "gen020",
+                    "name": "Hoodie Female Hoodie Personality Irregular",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006265268581.html"
+                },
+                {
+                    "id": "gen021",
+                    "name": "Fashion White Long Sleeve Shirt",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006256159135.html"
+                },
+                {
+                    "id": "gen022",
+                    "name": "New Spring Woman Faux Leather",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006499750008.html"
+                },
+                {
+                    "id": "gen023",
+                    "name": "Ruffled Quilting Short Type Parkas",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005004679450868.html"
+                },
+                {
+                    "id": "gen024",
+                    "name": "Lilo Stitch Varsity Baseball Bomber",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006086906843.html"
+                },
+                {
+                    "id": "gen025",
+                    "name": "Syiwidii Leopard Print Y2k Jeans",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006465292336.html"
+                },
+                {
+                    "id": "gen026",
+                    "name": "ZATRHMBM 2023 Womens Fashion Sequined",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005942409936.html"
+                },
+                {
+                    "id": "gen027",
+                    "name": "2024 Autumn And Winter Pullover",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005952579368.html"
+                },
+                {
+                    "id": "gen028",
+                    "name": "[EAM] Women Green Drawstring Irregular",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006238695191.html"
+                },
+                {
+                    "id": "gen029",
+                    "name": "Japan Anime Tokyo Revengers Plus",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005992572596.html"
+                },
+                {
+                    "id": "gen030",
+                    "name": "Spring Autumn Women's Three Piece",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006348405849.html"
+                }
+            ]
+        },
+        "toys_%2526_games": {
+            "products": [
+                {
+                    "id": "gen001",
+                    "name": "Black and Pink 55Pcs/Set Kpop",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sea8f0f6a65d74a19b426c827b53e2153p/Black-and-Pink-55Pcs-Set-Kpop-Album-Photocards-JISOO-JENNIE-LISA-ROSE-Collectible-LOMO-Card-Set.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006364231191.html"
+                },
+                {
+                    "id": "gen002",
+                    "name": "Bombproof Youth League Lomo Card",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sfd96b2e641e94e399cbd4fe08ff1315bf/Bombproof-Youth-League-Lomo-Card-J-HOPE-JIMIN-JIN-JUNGKOOK-RM-SUGA-V-Member-Photo-Card.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006507048759.html"
+                },
+                {
+                    "id": "gen003",
+                    "name": "Clothes For Doll Baby Pink",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S7b95d0ea9eac4ebc8e52f6a53796fd65T/Clothes-For-Doll-Baby-Pink-Series-Swimsuit-Fit-18-Inch-American-And-43-Cm-Reborn-Doll.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005003059310852.html"
+                },
+                {
+                    "id": "gen004",
+                    "name": "Breathing Bear Baby Soothing Otter",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sa86ceb3a146a4bdeb144ac65408eb13dl/Breathing-Bear-Baby-Soothing-Otter-Plush-Doll-Toy-Baby-Kids-Soothing-Music-Baby-Sleeping-Companion-Sound.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006473212670.html"
+                },
+                {
+                    "id": "gen005",
+                    "name": "Disney Cartoon Lilo & Stitch",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S60d5f19bf22347c48669e8f50f089decQ/Disney-Cartoon-Lilo-Stitch-Ear-Pendants-Kawaii-Stitch-Metal-Earring-Delicate-Female-Jewelry-Accessories-Girl-Christmas.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006112125519.html"
+                },
+                {
+                    "id": "gen006",
+                    "name": "6 in 1 Montessori Educational",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S2965816fddd2475d8ca1ec7a4861bff3d/6-in-1-Montessori-Educational-Toys-Sensory-Busy-Board-Baby-Practice-Skills-Drawer-Cube-Fidget-Educational.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006247208689.html"
+                },
+                {
+                    "id": "gen007",
+                    "name": "One Pack Of Children's 40",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006266226627.html"
+                },
+                {
+                    "id": "gen008",
+                    "name": "MINISO Kuromi Lunch Box Cinnamoroll",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006488406653.html"
+                },
+                {
+                    "id": "gen009",
+                    "name": "HOUZIWA Doll Accessories Blyth Doll",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006165579464.html"
+                },
+                {
+                    "id": "gen010",
+                    "name": "Kids Montessori Toys Rainbow Stick",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006165987250.html"
+                },
+                {
+                    "id": "gen011",
+                    "name": "5mm Hama Beads Pegboard template",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/4001165430095.html"
+                },
+                {
+                    "id": "gen012",
+                    "name": "27 Style English Metal Pocket",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005825591563.html"
+                },
+                {
+                    "id": "gen013",
+                    "name": "Game Red Dead Redemption 2",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005877238731.html"
+                },
+                {
+                    "id": "gen014",
+                    "name": "Game Escape From Tarkov Key",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005321875642.html"
+                },
+                {
+                    "id": "gen015",
+                    "name": "1pc-Dancing Talking Cactus Toys For",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005981362659.html"
+                },
+                {
+                    "id": "gen016",
+                    "name": "Takara Tomy B-189 Guilty Longinus",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005003306174075.html"
+                },
+                {
+                    "id": "gen017",
+                    "name": "1:12 Dollhouse Miniature Wooden Kitchen",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006440794357.html"
+                },
+                {
+                    "id": "gen018",
+                    "name": "27 Spanish Pokémon Cards Metal",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006431499483.html"
+                },
+                {
+                    "id": "gen019",
+                    "name": "Building Blocks Cube 3x3x3 Puzzle",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005575417400.html"
+                },
+                {
+                    "id": "gen020",
+                    "name": "10/30/50PCS Cool Cute PAW Patrol",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006458618991.html"
+                },
+                {
+                    "id": "gen021",
+                    "name": "Baby Shower Toy Cute Duck",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005491872062.html"
+                },
+                {
+                    "id": "gen022",
+                    "name": "10/54Pcs/Pack Waterproof Cartoon Outer Banks",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/4001293143079.html"
+                },
+                {
+                    "id": "gen023",
+                    "name": "10Pcs/Set Cute Animals Swimming Water",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/4001326794282.html"
+                },
+                {
+                    "id": "gen024",
+                    "name": "Takara Tomy Metal Fight Beyblade",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005001464348470.html"
+                },
+                {
+                    "id": "gen025",
+                    "name": "32Pcs Toddler Matching Card Early",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005589600072.html"
+                },
+                {
+                    "id": "gen026",
+                    "name": "23pcs Skibidi Toilet Plush Toys",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006519374400.html"
+                },
+                {
+                    "id": "gen027",
+                    "name": "Multiple styles of Kids Balance",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006672771201.html"
+                },
+                {
+                    "id": "gen028",
+                    "name": "Magic Trick Props Close Up",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006406651557.html"
+                },
+                {
+                    "id": "gen029",
+                    "name": "Magic Movie 76389 Chamber of",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006435762556.html"
+                },
+                {
+                    "id": "gen030",
+                    "name": "RUSH TANK MAX SOLO 5.8GHz",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005839495070.html"
+                }
+            ]
+        },
+        "pet_supplies": {
+            "products": [
+                {
+                    "id": "gen001",
+                    "name": "New Cat Dog Comb Pet",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S4b1d472a61114f718047d836aa8501aeN/New-Cat-Dog-Comb-Pet-Open-Knot-Comb-Cat-Puppy-Hair-Fur-Shedding-Grooming-Trimmer-Comb.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005005296417584.html"
+                },
+                {
+                    "id": "gen002",
+                    "name": "Super Soft Pet Finger Toothbrush",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sc21129ee054e45a382a1c72381b562f70/Super-Soft-Pet-Finger-Toothbrush-Teddy-Dog-Brush-Bad-Breath-Tartar-Teeth-Care-Tool-Dog-Cat.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005005825166579.html"
+                },
+                {
+                    "id": "gen003",
+                    "name": "Dog Super Soft Pet Finger",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sf8d46b372955477c9901d27d73c69436R/Dog-Super-Soft-Pet-Finger-Toothbrush-Teeth-Cleaning-Bad-Breath-Care-Nontoxic-Silicone-Tooth-Brush-Tool.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005004913299179.html"
+                },
+                {
+                    "id": "gen004",
+                    "name": "Cat Food Strip Squeezer Scientic",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S48f55cd21cc44f648eb9b746b3f33dc7d/Cat-Food-Strip-Squeezer-Scientic-Design-Hangable-Food-Can-Spoon-For-Cat-s-Supplies.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006164198169.html"
+                },
+                {
+                    "id": "gen005",
+                    "name": "3Pcs/2Pcs Pet Flea Remover Tool",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/Sae6172884edd458b986aea5790900654l/3Pcs-2Pcs-Pet-Flea-Remover-Tool-Kit-Plastic-Scratching-Hook-Remover-Pet-Cat-Dog-Grooming-Supplies.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005004398607546.html"
+                },
+                {
+                    "id": "gen006",
+                    "name": "Catnip Balls Funny Lickable Cat",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "https://ae01.alicdn.com/kf/S0924cad5e23848fba4fac6d17e218e8fS/Catnip-Balls-Funny-Lickable-Cat-Snack-Catnip-Balls-Kitten-Playing-Chewing-Cleaning-Teeth-Toy-For-Small.jpg_350x350xz.jpg_.webp",
+                    "productUrl": "https://www.aliexpress.us/item/1005006180791321.html"
+                },
+                {
+                    "id": "gen007",
+                    "name": "Bathroom Puppy Big Dog Cat",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005129242815.html"
+                },
+                {
+                    "id": "gen008",
+                    "name": "Pet Dog Toy Squeak Plush",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005204857301.html"
+                },
+                {
+                    "id": "gen009",
+                    "name": "Dog Harness Leash Set for",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005003762172361.html"
+                },
+                {
+                    "id": "gen010",
+                    "name": "Parrot Cuttlefish Bone Calcium Supplement",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006397628702.html"
+                },
+                {
+                    "id": "gen011",
+                    "name": "Fishing Landing Net Rust Proof",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006147685604.html"
+                },
+                {
+                    "id": "gen012",
+                    "name": "Cat Litter Shovel Scoop for",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005004749814432.html"
+                },
+                {
+                    "id": "gen013",
+                    "name": "White Lace Bowknot Collar, Bowtie",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006292616335.html"
+                },
+                {
+                    "id": "gen014",
+                    "name": "20PCS Colorful Cat Nail Caps",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005684847396.html"
+                },
+                {
+                    "id": "gen015",
+                    "name": "2023 Catnip Toys Funny Interactive",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006514907963.html"
+                },
+                {
+                    "id": "gen016",
+                    "name": "Dog Car Seat Belt Safety",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005757920782.html"
+                },
+                {
+                    "id": "gen017",
+                    "name": "Pet Lick Silicone Mat for",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005944867489.html"
+                },
+                {
+                    "id": "gen018",
+                    "name": "Striped Puppy Sleeveless Vest Spring",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005638381017.html"
+                },
+                {
+                    "id": "gen019",
+                    "name": "Cat Massager Waterproof Soft Head",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005870788978.html"
+                },
+                {
+                    "id": "gen020",
+                    "name": "ROJECO Automatic Pet Feeder Button",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006094316067.html"
+                },
+                {
+                    "id": "gen021",
+                    "name": "Bird Chewing Paper/ Rattan Toy",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005816174831.html"
+                },
+                {
+                    "id": "gen022",
+                    "name": "Pet Treat Balls with Rope",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005964932883.html"
+                },
+                {
+                    "id": "gen023",
+                    "name": "Strong Bamboo Cat Scratch Mat",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006221443276.html"
+                },
+                {
+                    "id": "gen024",
+                    "name": "Dog Foot Cup Paw Washer",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005256631195.html"
+                },
+                {
+                    "id": "gen025",
+                    "name": "Parrot Bird Harness Leash Outdoor",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005622819808.html"
+                },
+                {
+                    "id": "gen026",
+                    "name": "50 Pcs/set Pet Clipper Blade",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005003784007437.html"
+                },
+                {
+                    "id": "gen027",
+                    "name": "Pet Feeder Spoon Cat Snack",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006367193977.html"
+                },
+                {
+                    "id": "gen028",
+                    "name": "Aquarium Thermometer LCD Digital External",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005006338717844.html"
+                },
+                {
+                    "id": "gen029",
+                    "name": "Dog Dresses for Small Dogs",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005005372138480.html"
+                },
+                {
+                    "id": "gen030",
+                    "name": "The Dog Face Pet Dog",
+                    "description": "No description available",
+                    "price": 0,
+                    "currency": "USD",
+                    "imageUrl": "No Image Available",
+                    "productUrl": "https://www.aliexpress.us/item/1005004475139144.html"
+                }
+            ]
+        }
     }
-  }
-  
+}
